@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arhitecture Documentation", "Arhitecture Documentation", "{7CC1F6B3-1CDB-41A4-B5D1-03C6B2D6D363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeonApi.Gateway", "OdeonToursApi\OdeonApi.Gateway.csproj", "{AB2D1890-1CBD-4D49-A166-B5AEEF4470EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeonApi.Definitions", "OdeonApi.Definitions\OdeonApi.Definitions.csproj", "{D143F13D-BEF6-4F41-87E8-E0C142F9C9ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB2D1890-1CBD-4D49-A166-B5AEEF4470EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2D1890-1CBD-4D49-A166-B5AEEF4470EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2D1890-1CBD-4D49-A166-B5AEEF4470EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2D1890-1CBD-4D49-A166-B5AEEF4470EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D143F13D-BEF6-4F41-87E8-E0C142F9C9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D143F13D-BEF6-4F41-87E8-E0C142F9C9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D143F13D-BEF6-4F41-87E8-E0C142F9C9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D143F13D-BEF6-4F41-87E8-E0C142F9C9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0126F4F8-89B7-4031-9476-947AA3D90EB5}
+	EndGlobalSection
+EndGlobal
