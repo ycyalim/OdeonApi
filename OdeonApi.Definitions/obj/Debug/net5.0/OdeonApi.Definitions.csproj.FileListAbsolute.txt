@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\bin\Debug\net5.0\appsettings.json
 C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\bin\Debug\net5.0\OdeonApi.Definitions.exe
@@ -20,3 +22,51 @@ C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0
 C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\ref\OdeonApi.Definitions.dll
 C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\OdeonApi.Definitions.pdb
 C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\OdeonApi.Definitions.genruntimeconfig.cache
+=======
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\bin\Debug\net5.0\appsettings.json
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\bin\Debug\net5.0\OdeonApi.Definitions.exe
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\bin\Debug\net5.0\OdeonApi.Definitions.deps.json
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\bin\Debug\net5.0\OdeonApi.Definitions.runtimeconfig.json
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\bin\Debug\net5.0\OdeonApi.Definitions.runtimeconfig.dev.json
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\bin\Debug\net5.0\OdeonApi.Definitions.dll
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\bin\Debug\net5.0\ref\OdeonApi.Definitions.dll
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\bin\Debug\net5.0\OdeonApi.Definitions.pdb
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\OdeonApi.Definitions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\OdeonApi.Definitions.AssemblyInfoInputs.cache
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\OdeonApi.Definitions.AssemblyInfo.cs
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\OdeonApi.Definitions.csproj.CoreCompileInputs.cache
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\OdeonApi.Definitions.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\staticwebassets\OdeonApi.Definitions.StaticWebAssets.Manifest.cache
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\staticwebassets\OdeonApi.Definitions.StaticWebAssets.xml
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\scopedcss\bundle\OdeonApi.Definitions.styles.css
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\OdeonApi.Definitions.RazorTargetAssemblyInfo.cache
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\OdeonApi.Definitions.dll
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\ref\OdeonApi.Definitions.dll
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\OdeonApi.Definitions.pdb
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\OdeonApi.Definitions.genruntimeconfig.cache
+>>>>>>> 8e7e67b539f633f81d8b86aacc0abc8e57af6de9
+=======
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\bin\Debug\net5.0\appsettings.json
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\bin\Debug\net5.0\OdeonApi.Definitions.exe
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\bin\Debug\net5.0\OdeonApi.Definitions.deps.json
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\bin\Debug\net5.0\OdeonApi.Definitions.runtimeconfig.json
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\bin\Debug\net5.0\OdeonApi.Definitions.runtimeconfig.dev.json
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\bin\Debug\net5.0\OdeonApi.Definitions.dll
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\bin\Debug\net5.0\ref\OdeonApi.Definitions.dll
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\bin\Debug\net5.0\OdeonApi.Definitions.pdb
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\OdeonApi.Definitions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\OdeonApi.Definitions.AssemblyInfoInputs.cache
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\OdeonApi.Definitions.AssemblyInfo.cs
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\OdeonApi.Definitions.csproj.CoreCompileInputs.cache
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\OdeonApi.Definitions.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\staticwebassets\OdeonApi.Definitions.StaticWebAssets.Manifest.cache
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\staticwebassets\OdeonApi.Definitions.StaticWebAssets.xml
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\scopedcss\bundle\OdeonApi.Definitions.styles.css
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\OdeonApi.Definitions.RazorTargetAssemblyInfo.cache
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\OdeonApi.Definitions.dll
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\ref\OdeonApi.Definitions.dll
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\OdeonApi.Definitions.pdb
+C:\Users\yasar.yalim\source\repos\OdeonApi\OdeonApi.Definitions\obj\Debug\net5.0\OdeonApi.Definitions.genruntimeconfig.cache
+>>>>>>> 8e7e67b539f633f81d8b86aacc0abc8e57af6de9

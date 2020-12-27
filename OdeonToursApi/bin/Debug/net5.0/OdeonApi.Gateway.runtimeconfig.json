@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 {
   "runtimeOptions": {
     "tfm": "net5.0",
@@ -10,4 +12,32 @@
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false
     }
   }
+=======
+{
+  "runtimeOptions": {
+    "tfm": "net5.0",
+    "framework": {
+      "name": "Microsoft.AspNetCore.App",
+      "version": "5.0.0"
+    },
+    "configProperties": {
+      "System.GC.Server": true,
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false
+    }
+  }
+>>>>>>> 8e7e67b539f633f81d8b86aacc0abc8e57af6de9
+=======
+{
+  "runtimeOptions": {
+    "tfm": "net5.0",
+    "framework": {
+      "name": "Microsoft.AspNetCore.App",
+      "version": "5.0.0"
+    },
+    "configProperties": {
+      "System.GC.Server": true,
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false
+    }
+  }
+>>>>>>> 8e7e67b539f633f81d8b86aacc0abc8e57af6de9
 }

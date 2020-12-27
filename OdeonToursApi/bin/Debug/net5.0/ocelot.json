@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 {
     "Routes": [
         {
@@ -17,4 +19,46 @@
         "RequestIdKey": "OcRequestId",
         "AdministrationPath": "/administration"
     }
+=======
+{
+    "Routes": [
+        {
+            "DownstreamPathTemplate": "/api/{everthing}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 44354
+                }
+            ],
+            "UpstreamPathTemplate": "/api/definitions/{everthing}",
+            "UpstreamHttpMethod": [ "POST", "PUT", "GET" ]
+        }
+    ],
+    "GlobalConfiguration": {
+        "RequestIdKey": "OcRequestId",
+        "AdministrationPath": "/administration"
+    }
+>>>>>>> 8e7e67b539f633f81d8b86aacc0abc8e57af6de9
+=======
+{
+    "Routes": [
+        {
+            "DownstreamPathTemplate": "/api/{everthing}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 44354
+                }
+            ],
+            "UpstreamPathTemplate": "/api/definitions/{everthing}",
+            "UpstreamHttpMethod": [ "POST", "PUT", "GET" ]
+        }
+    ],
+    "GlobalConfiguration": {
+        "RequestIdKey": "OcRequestId",
+        "AdministrationPath": "/administration"
+    }
+>>>>>>> 8e7e67b539f633f81d8b86aacc0abc8e57af6de9
 }
