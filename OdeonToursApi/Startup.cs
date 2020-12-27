@@ -34,7 +34,7 @@ namespace OdeonApi.Gateway
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "OdeonApi.Gateway.Api", Version = "v1" });
             });
-
+              
             services.AddOcelot(Configuration);
         }
 
